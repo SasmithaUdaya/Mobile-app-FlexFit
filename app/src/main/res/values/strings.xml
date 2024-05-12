@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Workout plan</string>
+    <string name="homename">FlexFit</string>
+    <string name="createdby">created by Android studio</string>
+</resources>
